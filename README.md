@@ -5,4 +5,6 @@ The goal here is to create labs that help you learn based on what you're interes
 
 I'm starting with a list of labs based on DND!
 
-## DND Related Labs
+## DND Related 
+
+1. [Dice Roller](https://github.com/sashimii/JSLearningLabs/blob/master/labs/lab-1-dice-roller.md)
