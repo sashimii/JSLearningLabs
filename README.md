@@ -8,3 +8,4 @@ I'm starting with a list of labs based on DND!
 ## DND Related 
 
 1. [Dice Roller](https://github.com/sashimii/JSLearningLabs/blob/master/labs/lab-1-dice-roller.md) -- Console App
+2. [Dice Roller](https://github.com/sashimii/JSLearningLabs/blob/master/labs/lab-1-dice-roller--browser-side.md) for Browser Side
